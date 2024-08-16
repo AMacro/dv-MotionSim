@@ -1,0 +1,8 @@
+{
+    "Id":  "MotionSim",
+    "Version":  "0.1.0.0",
+    "DisplayName":  "Motion Sim",
+    "Author":  "Macka",
+    "EntryMethod":  "MotionSim.MotionSim.Load",
+    "ManagerVersion":  "0.27.3"
+}
